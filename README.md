@@ -1,4 +1,10 @@
-﻿﻿ What is it?
+ 
+适用于中国大陆昆仑代理的coc bot:
+注意：使用前请先将con.supercell.clashofclans.kunlun.cfg移动到C:\ProgramData\BlueStacks\UserData\InputMapper (添加缩放)
+ 
+ 
+ 
+ What is it?
   -----------
 - A Free Clash of Clans bot. 
 - A bot is a general term in gaming that is used to refer to a character controlled by a computer.
@@ -6,20 +12,21 @@
 
 The Latest Version
   ------------------
-- Details of the latest version can be found on the MyBot forum under https://mybot.run/forums/index.php?/forum/4-official-releases/
+- Details of the latest version can be found on the MyBot forum under https://mybot.run/forums/thread-6924.html
 
 Documentation
   -------------
-- How to Start Bot - https://mybot.run/forums/index.php?/topic/4978-guide-how-to-use-the-bot/
-- How to Report Bug/Help - https://mybot.run/forums/index.php?/forum/20-bug-reporting/
+- How to Start Bot - https://mybot.run/forums/showthread.php?tid=4
+- How to Report Bug/Help - https://mybot.run/forums/showthread.php?tid=211
 
 Installation
   ------------
 Essential software :
-- Windows Vista/7/8/8.1/10
+- Windows Vista/7/8/8.1
+- {Note - MyBot does not support Windows 10 at this time!} https://mybot.run/forums/thread-7296.html
 - Microsoft Visual C++ 2010 Redistributable Package (x86)
 - Microsoft .NET Framework 4.5
-- BlueStacks 0.9.x - 0.10.x OR Bluestacks 2 OR Droid4x 0.8.6 OR MEmu 2.2.1
+- BlueStacks App Player 0.9.24.5311 Superuser BSEasy ROOT by @swvr (Recommended)
 - The latest drivers for your graphics device
 - MyBot last version avaiable
 - DON´T USE THE OLD CONFIG FILES
@@ -33,11 +40,15 @@ Please see the file called LICENSE.
 - Curl.exe - curl is an open source command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, Gopher, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, POP3, POP3S, RTMP, RTSP, SCP, SFTP, SMB, SMTP, SMTPS, Telnet and TFTP. curl supports SSL certificates, HTTP POST, HTTP PUT, FTP uploading, HTTP form based upload, proxies, HTTP/2, cookies, user+password authentication (Basic, Plain, Digest, CRAM-MD5, NTLM, Negotiate and Kerberos), file transfer resume, proxy tunneling and more. This executable is used in our software because Pushbullet.
   http://curl.haxx.se/
 
-Mybot uses non-GPL 3rd party libraries for extension (#SystemLibraryException): 
+Mybot use non-GPL 3rd party libraries for extension (#SystemLibraryException): 
 - OpenCV - BSD license - repository : https://github.com/MyBotRun/Libraries
 - ImageSearch - GNU license - repository : https://github.com/MyBotRun/Libraries
-- Functional library MBRfunctions.dll - Proprietary library from the Developer Didipe 2015
+- Functional library CGBfunctions.dll - Proprietary library from de Developer Didipe 2015
 
 Contacts
   --------
-- https://mybot.run/forums/index.php?/contact/
+- https://mybot.run/forums/contact.php
+- 
+
+适用于中国大陆昆仑代理的coc bot:
+注意：使用前请先将con.supercell.clashofclans.kunlun.cfg移动到C:\ProgramData\BlueStacks\UserData\InputMapper (添加缩放)
