@@ -51,4 +51,4 @@ Contacts
 - 
 
 适用于中国大陆昆仑代理的coc bot:
-注意：使用前请先将con.supercell.clashofclans.kunlun.cfg移动到C:\ProgramData\BlueStacks\UserData\InputMapper (添加缩放)
+注意：使用前请先将com.supercell.clashofclans.kunlun.cfg移动到C:\ProgramData\BlueStacks\UserData\InputMapper (添加缩放)
